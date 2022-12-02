@@ -1,1 +1,1 @@
-# Tamil word for English Tech words.
+# Tamil words for English Tech words.
