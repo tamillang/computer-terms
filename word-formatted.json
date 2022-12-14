@@ -633,5 +633,12 @@
     "Working environment":"பணிச்சூழல்",
     "Worksheet":"பணித்தாள்",
     "Workstation":"பணிநிலையம்",
-    "World Wide Web (WWW)":"வைய விரிவு வலை "
+    "World Wide Web (WWW)":"வைய விரிவு வலை ",
+    "Semiconductor":"குறைகடத்தி(குறைக்கடத்தி)",
+    "monolithic IC":"ஒற்றைப்படிகத் தொகுப்புச் சுற்று",
+    "Hybrid IC":"இனக்கலப்புத் அடித்தளத்தில் சுற்று",
+    "Linear IC":"நேர்போக்குத் தொகுப்புச் சுற்று",
+    "Digital IC":"இலக்கத் தொகுப்புச் சுற்று",
+    "Integrated circuit":"தொகுப்புச் சுற்று (ஒருங்கிணை சுற்று)",
+    "Microchip (IC)":"நுண் சில்லு"
 }
